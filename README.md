@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JeffRileyMtl
-- 👀 I’m interested in Deep Learning, Optimization, Reinforcement Learning
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Deep Learning, Optimization, Reinforcement Learning. I apply these tools to the transportation industry. 
+- 🌱 I’m currently learning neural networks. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- My programming hobbies are fantasy hockey, stock trading and geo maps. 
+- My programming hobbies are stock trading fantasy hockey and geo maps. 
 
 <!---
 JeffRileyMtl/JeffRileyMtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
