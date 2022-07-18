@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeffRileyMtl
-- 👀 I’m interested in Deep Learning, Optimization, Reinforcement Learning. I apply these tools to the transportation industry and for good. 
-- 🌱 I’m currently learning neural networks. 
+- 👀 I’m interested in Deep Learning, Optimization, Reinforcement Learning. I apply these tools to the transportation industry, the stock market and for good. 
+- 🌱 I’m currently graph networks
 - 💞️ I’m looking to collaborate on ...
 - My programming hobbies are stock trading, fantasy hockey and geo maps. 
 
